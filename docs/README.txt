@@ -7,7 +7,6 @@ Created by Markus Persson for the 2009 Java 4k Competition.
 
 Ported to a desktop application by Toby Davis
 
-See the FAQ document for extra info
 See the How to play document for instructions on how to play the game
 
 NOTICE: 
