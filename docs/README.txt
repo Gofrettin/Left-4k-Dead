@@ -3,7 +3,7 @@
 --------------
 A zombie shooter game inspired by Left 4 Dead.
 Made by Markus Persson for the 2009 Java 4k Competition.
-Ported to a desktop application by Toby Davis
+Ported to a desktop application by Toby Davis.
 
 ------
 -Play-
@@ -34,4 +34,4 @@ See the "src" folder for a copy of the modified source code
 -NOTICE-
 --------
 Please don't reuse any of this code in other projects.
-Everything here is copyright Markus "Notch" Persson
+Everything here is copyright Markus "Notch" Persson.
