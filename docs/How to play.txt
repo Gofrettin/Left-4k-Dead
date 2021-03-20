@@ -1,0 +1,10 @@
+Use WASD to move.
+Move the mouse to look around.
+Press the left mouse button to fire.
+To reload, press R.
+
+Yellow powerups restore clips.
+Red powerups restore health.
+
+Beating a level means the game gets harder,
+but you get more points for each zombie.
